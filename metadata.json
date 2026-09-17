@@ -1,0 +1,6 @@
+{
+  "name": "Makram Luxury Barbershop Dubai",
+  "description": "Dubai's premier luxury men's grooming salon, offering master bespoke haircuts, traditional straight-razor shaves, private VIP suites, and online concierge booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
