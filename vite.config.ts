@@ -5,6 +5,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
+    base: '/Makram-Luxury-Barbershop/',
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
